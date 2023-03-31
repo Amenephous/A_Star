@@ -13,7 +13,7 @@ For Mac OS and Linux:
 
 To get started, simply navigate to the code and uncomment the relevant sections based on your needs. We've included detailed comments to guide you through the process.
 
-Our implementation includes two heuristics - Manhattan and Euclidean - to help you find the most efficient path. However, please note that the current code only checks for neighbors in the East, South, West, and North directions, and doesn't consider diagonal neighbors.
+Our implementation includes two heuristics - Manhattan and Euclidean - to help you find the most efficient path. However, please note that the current code only checks for neighbors in the East, South, West, and North directions, and doesn't consider diagonal neighbors. The "maze" is developed initially and is used(Class_Setup1). A separate setup can be made by altering the maze, developing new maze using pyamaze or the same maze can be used to run the code. 
 
 Additionally, this implementation supports up to three agents or robots for pathfinding and taking the shortest path. If you require more agents, it is easy to modify the code using similar lines of code. Simply refer to the provided comments for guidance.
 
