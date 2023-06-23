@@ -2,10 +2,12 @@ Welcome to the A* Algorithm Repository! Here, you'll find an implementation of t
 
 
 https://github.com/Amenephous/A_Star/assets/48127920/69357db8-6a13-4796-80f7-93239479da22
+
 Astar Algorithm using one bot
 
 
 https://github.com/Amenephous/A_Star/assets/48127920/c5339490-600d-41f5-bf0f-f9eff82457fe
+
 Astar Algorithm using multiple bots
 
 
